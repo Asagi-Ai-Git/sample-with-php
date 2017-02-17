@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -15,3 +16,4 @@ echo "<img src='https://akphoto4.ask.fm/2e5/5fd32/24fe/40d4/b765/5d0887902a95/or
 ?>
 </body>
 </html>
+
